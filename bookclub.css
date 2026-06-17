@@ -1,0 +1,45 @@
+body {
+
+background-color: rgb(211, 234, 255);
+} 
+
+header {
+
+background-color: rgb(244, 79, 79);
+}
+
+
+nav {
+
+    background-color: #9a85ef;
+}
+
+
+#intro {
+
+    background-color: lightpink
+}
+
+
+.main-section-content h2 {
+
+    background-color: darkkhaki
+
+
+
+}
+#bestsellers,
+footer {
+
+    background-color: lightyellow
+}
+
+#bestsellers,
+header,
+nav,
+#intro,
+#main-section,
+#bestsellers,
+footer,{
+ border
+
